@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2025-09-23 19:12:04",
+    "message": "Hello from Android! Count: 1",
+    "counter": 1,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:05",
+    "message": "Hello from Android! Count: 2",
+    "counter": 2,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:06",
+    "message": "Hello from Android! Count: 3",
+    "counter": 3,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:07",
+    "message": "Hello from Android! Count: 4",
+    "counter": 4,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:08",
+    "message": "Hello from Android! Count: 5",
+    "counter": 5,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:09",
+    "message": "Hello from Android! Count: 6",
+    "counter": 6,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:10",
+    "message": "Hello from Android! Count: 7",
+    "counter": 7,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:11",
+    "message": "Hello from Android! Count: 8",
+    "counter": 8,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:12",
+    "message": "Hello from Android! Count: 9",
+    "counter": 9,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:13",
+    "message": "Hello from Android! Count: 10",
+    "counter": 10,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:23",
+    "message": "Hello from Android! Count: 1",
+    "counter": 11,
+    "source": "Android"
+  },
+  {
+    "timestamp": "2025-09-23 19:12:24",
+    "message": "Hello from Android! Count: 2",
+    "counter": 12,
+    "source": "Android"
+  }
+]
