@@ -1,74 +1,519 @@
 [
   {
-    "timestamp": "2025-09-23 19:12:04",
-    "message": "Hello from Android! Count: 1",
     "counter": 1,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:17",
+    "raw_message": "Location: lat=54.766071, lon=83.105337, alt=100.5 м, time=23:28:17",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766071,
+      "longitude": 83.105337,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:05",
-    "message": "Hello from Android! Count: 2",
     "counter": 2,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:18",
+    "raw_message": "Location: lat=54.766081, lon=83.105339, alt=100.5 м, time=23:28:18",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766081,
+      "longitude": 83.105339,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:06",
-    "message": "Hello from Android! Count: 3",
     "counter": 3,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:19",
+    "raw_message": "Location: lat=54.766088, lon=83.105341, alt=100.5 м, time=23:28:19",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766088,
+      "longitude": 83.105341,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:07",
-    "message": "Hello from Android! Count: 4",
     "counter": 4,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:20",
+    "raw_message": "Location: lat=54.766119, lon=83.105342, alt=100.5 м, time=23:28:20",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766119,
+      "longitude": 83.105342,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:08",
-    "message": "Hello from Android! Count: 5",
     "counter": 5,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:21",
+    "raw_message": "Location: lat=54.766124, lon=83.105343, alt=100.5 м, time=23:28:21",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766124,
+      "longitude": 83.105343,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:09",
-    "message": "Hello from Android! Count: 6",
     "counter": 6,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:22",
+    "raw_message": "Location: lat=54.766130, lon=83.105345, alt=100.5 м, time=23:28:22",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.76613,
+      "longitude": 83.105345,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:10",
-    "message": "Hello from Android! Count: 7",
     "counter": 7,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:23",
+    "raw_message": "Location: lat=54.766137, lon=83.105347, alt=100.5 м, time=23:28:23",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766137,
+      "longitude": 83.105347,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:11",
-    "message": "Hello from Android! Count: 8",
     "counter": 8,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:24",
+    "raw_message": "Location: lat=54.766143, lon=83.105349, alt=100.5 м, time=23:28:24",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766143,
+      "longitude": 83.105349,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:12",
-    "message": "Hello from Android! Count: 9",
     "counter": 9,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:25",
+    "raw_message": "Location: lat=54.766163, lon=83.105350, alt=100.5 м, time=23:28:25",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766163,
+      "longitude": 83.10535,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:13",
-    "message": "Hello from Android! Count: 10",
     "counter": 10,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:26",
+    "raw_message": "Location: lat=54.766162, lon=83.105354, alt=100.5 м, time=23:28:26",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766162,
+      "longitude": 83.105354,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:23",
-    "message": "Hello from Android! Count: 1",
     "counter": 11,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:28",
+    "raw_message": "Location: lat=54.766149, lon=83.105359, alt=100.5 м, time=23:28:27",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766149,
+      "longitude": 83.105359,
+      "altitude": 100.5
+    }
   },
   {
-    "timestamp": "2025-09-23 19:12:24",
-    "message": "Hello from Android! Count: 2",
     "counter": 12,
-    "source": "Android"
+    "server_timestamp": "2025:10:07 16:28:29",
+    "raw_message": "Location: lat=54.766081, lon=83.105377, alt=100.5 м, time=23:28:28",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766081,
+      "longitude": 83.105377,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 13,
+    "server_timestamp": "2025:10:07 16:28:30",
+    "raw_message": "Location: lat=54.766037, lon=83.105387, alt=100.5 м, time=23:28:29",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766037,
+      "longitude": 83.105387,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 14,
+    "server_timestamp": "2025:10:07 16:28:31",
+    "raw_message": "Location: lat=54.766005, lon=83.105396, alt=100.5 м, time=23:28:30",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.766005,
+      "longitude": 83.105396,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 15,
+    "server_timestamp": "2025:10:07 16:28:32",
+    "raw_message": "Location: lat=54.765982, lon=83.105401, alt=100.5 м, time=23:28:31",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.765982,
+      "longitude": 83.105401,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 16,
+    "server_timestamp": "2025:10:07 16:28:33",
+    "raw_message": "Location: lat=54.765948, lon=83.105407, alt=100.5 м, time=23:28:33",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.765948,
+      "longitude": 83.105407,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 17,
+    "server_timestamp": "2025:10:07 16:28:34",
+    "raw_message": "Location: lat=54.765935, lon=83.105408, alt=100.5 м, time=23:28:34",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.765935,
+      "longitude": 83.105408,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 18,
+    "server_timestamp": "2025:10:07 16:28:35",
+    "raw_message": "Location: lat=54.765926, lon=83.105407, alt=100.5 м, time=23:28:35",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.765926,
+      "longitude": 83.105407,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 19,
+    "server_timestamp": "2025:10:07 16:28:36",
+    "raw_message": "Location: lat=54.765915, lon=83.105408, alt=100.5 м, time=23:28:36",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.765915,
+      "longitude": 83.105408,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 20,
+    "server_timestamp": "2025:10:07 16:28:37",
+    "raw_message": "Location: lat=54.765903, lon=83.105409, alt=100.5 м, time=23:28:37",
+    "source": "Android",
+    "parsed": {
+      "latitude": 54.765903,
+      "longitude": 83.105409,
+      "altitude": 100.5
+    }
+  },
+  {
+    "counter": 21,
+    "server_timestamp": "2025:10:07 16:29:17",
+    "raw_message": " 54.765933, 83.105368, 100.5 м, 23:29:15",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 22,
+    "server_timestamp": "2025:10:07 16:29:18",
+    "raw_message": " 54.765933, 83.105368, 100.5 м, 23:29:15",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 23,
+    "server_timestamp": "2025:10:07 16:29:20",
+    "raw_message": " 54.765933, 83.105368, 100.5 м, 23:29:15",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 24,
+    "server_timestamp": "2025:10:07 16:29:21",
+    "raw_message": " 54.765933, 83.105368, 100.5 м, 23:29:15",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 25,
+    "server_timestamp": "2025:10:07 16:29:22",
+    "raw_message": " 54.765938, 83.105369, 100.5 м, 23:29:21",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 26,
+    "server_timestamp": "2025:10:07 16:29:23",
+    "raw_message": " 54.765939, 83.105363, 100.5 м, 23:29:22",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 27,
+    "server_timestamp": "2025:10:07 16:29:24",
+    "raw_message": " 54.765939, 83.105365, 100.5 м, 23:29:23",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 28,
+    "server_timestamp": "2025:10:07 16:29:25",
+    "raw_message": " 54.765939, 83.105365, 100.5 м, 23:29:25",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 29,
+    "server_timestamp": "2025:10:07 16:29:26",
+    "raw_message": " 54.765939, 83.105365, 100.5 м, 23:29:26",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 30,
+    "server_timestamp": "2025:10:07 16:29:27",
+    "raw_message": " 54.765939, 83.105365, 100.5 м, 23:29:27",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 31,
+    "server_timestamp": "2025:10:07 16:35:20",
+    "raw_message": " 54.765935, 83.105363, 100.5 м, 23:35:19",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 32,
+    "server_timestamp": "2025:10:07 16:35:21",
+    "raw_message": " 54.765935, 83.105363, 100.5 м, 23:35:19",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 33,
+    "server_timestamp": "2025:10:07 16:35:22",
+    "raw_message": " 54.765957, 83.105390, 100.5 м, 23:35:21",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 34,
+    "server_timestamp": "2025:10:07 16:35:23",
+    "raw_message": " 54.765957, 83.105390, 100.5 м, 23:35:21",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 35,
+    "server_timestamp": "2025:10:07 16:35:25",
+    "raw_message": " 54.765766, 83.105437, 100.5 м, 23:35:24",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 36,
+    "server_timestamp": "2025:10:07 16:43:03",
+    "raw_message": " 54.765938, 83.105316, 100.5 м, 23:43:02",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 37,
+    "server_timestamp": "2025:10:07 16:43:05",
+    "raw_message": " 54.765938, 83.105316, 100.5 м, 23:43:02",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 38,
+    "server_timestamp": "2025:10:07 16:43:06",
+    "raw_message": " 54.765938, 83.105316, 100.5 м, 23:43:02",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 39,
+    "server_timestamp": "2025:10:07 16:43:07",
+    "raw_message": " 54.765924, 83.105257, 100.5 м, 23:43:06",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 40,
+    "server_timestamp": "2025:10:07 16:43:08",
+    "raw_message": " 54.765889, 83.105220, 100.5 м, 23:43:07",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 41,
+    "server_timestamp": "2025:10:07 16:43:09",
+    "raw_message": " 54.765911, 83.105249, 100.5 м, 23:43:08",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 42,
+    "server_timestamp": "2025:10:07 16:43:10",
+    "raw_message": " 54.765925, 83.105259, 100.5 м, 23:43:10",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 43,
+    "server_timestamp": "2025:10:07 16:43:11",
+    "raw_message": " 54.765933, 83.105258, 100.5 м, 23:43:11",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 44,
+    "server_timestamp": "2025:10:07 16:43:12",
+    "raw_message": " 54.765939, 83.105266, 100.5 м, 23:43:12",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 45,
+    "server_timestamp": "2025:10:07 16:43:13",
+    "raw_message": " 54.765921, 83.105285, 100.5 м, 23:43:13",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 46,
+    "server_timestamp": "2025:10:07 16:43:14",
+    "raw_message": " 54.765901, 83.105317, 100.5 м, 23:43:14",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
+  },
+  {
+    "counter": 47,
+    "server_timestamp": "2025:10:07 16:43:15",
+    "raw_message": " 54.765888, 83.105339, 100.5 м, 23:43:15",
+    "source": "Android",
+    "parsed": {
+      "latitude": null,
+      "longitude": null,
+      "altitude": null
+    }
   }
 ]
